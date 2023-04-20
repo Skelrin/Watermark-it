@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Watermark-it!</string>
+    <string name="welcome">Bienvenue sur Watermark-it!</string>
+    <string name="mail">Adresse mail</string>
+    <string name="mail_logo">Logo adresse mail</string>
+    <string name="pass">Mot de passe</string>
+    <string name="cgu">J\'accepte les termes et conditions d\'utilisation.</string>
+    <string name="login">Se connecter</string>
+    <string name="logout_logo">Logo se déconnecter</string>
+    <string name="hello">Insertion du tatouage</string>
+    <string name="choixTatouage">Type du tatouage :</string>
+    <string name="choixTatouage2">Choisir le tatouage :</string>
+    <string name="robuste">robuste</string>
+    <string name="fragile">fragile</string>
+    <string name="texte">texte</string>
+    <string name="image">image</string>
+    <string name="imageTatouage">Image à tatouer :</string>
+    <string name="selectionnerImage">Sélectionner une image</string>
+    <string name="selectionnerTatouage">Sélectionner votre tatouage</string>
+    <string name="insertTatouage">Insérer le tatouage</string>
+    <string name="recupererTatouage">Récupération du tatouage</string>
+    <string name="exportTatouage">Exporter le tatouage</string>
+    <string name="galerie">Galerie d\'images tatouées</string>
+    <string name="styloLogo">Logo Watermark</string>
+    <string name="handLogo">Logo Récupération Watermark</string>
+    <string name="eraserLogo">Logo Récupération Image</string>
+    <string name="galleryLogo">Logo Galerie</string>
+    <string name="signature">Signature</string>
+    <string name="register">S\'inscrire</string>
+    <string name="welcome_register">S\'inscrire sur Watermark-it!</string>
+</resources>

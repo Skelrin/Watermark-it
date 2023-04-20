@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625338559383",
+    "project_id": "watermarker-da6a3",
+    "storage_bucket": "watermarker-da6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625338559383:android:078f1552131f1c969272d2",
+        "android_client_info": {
+          "package_name": "com.example.watermarker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625338559383-44bvfgqngri028nlrsmib9odvkak6lf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.watermarker",
+            "certificate_hash": "3a543faddbfe2faf415f9ab99d93d603549277a6"
+          }
+        },
+        {
+          "client_id": "625338559383-paclrch0fio8o6nekq4k50hfuoagrg1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625338559383-paclrch0fio8o6nekq4k50hfuoagrg1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
