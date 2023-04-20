@@ -1,6 +1,6 @@
 # Watermark-it
 
-Watermark-it est une application Android permettant de tatouer des images avec d'autres images ou du texte de façon rapide et intuitive en semi-aveugle avec des tatouages invisibles. Elle permet également d'extraire les tatouages. L'algorithme d'insertion et d'extraction est disponible sur [ce repository GitHub](https://github.com/Victor-Loos/Watermark-it).
+Watermark-it est une application Android permettant de tatouer des images avec d'autres images ou du texte de façon rapide et intuitive en semi-aveugle avec des tatouages invisibles. Elle permet également d'extraire les tatouages. L'algorithme d'insertion et d'extraction ainsi que la fiche technique du projet sont disponible sur [ce repository GitHub](https://github.com/Victor-Loos/Watermark-it).
 
 ## Fonctionnalités
 
